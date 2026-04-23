@@ -2,32 +2,29 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Benoit Dulac
+  given: Benoit
+  family: Dulac
 postnominals: []
 status:
   icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+role: Technicien UC & Réseau
+email: benoit4dulac@gmail.com
 bio: |
   Full-stack developer with 5+ years of experience building scalable web applications.
   Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
 
 affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
-
+  - name: TIMS Systems
+    url: https://tims.fr
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:benoit4dulac@gmail.com
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnson
+    url: https://github.com/rigobert42
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://www.linkedin.com/in/benoitdulac/
 
 interests:
   - Web Development
