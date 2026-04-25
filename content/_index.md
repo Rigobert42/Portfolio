@@ -18,10 +18,10 @@ sections:
         enable: true
         prefix: "Je peux"
         strings:
-          - "configuré des équipements réseau"
-          - "configuré un serveur de téléphonie"
-          - "développé des sites web"
-          - "développé des programmes"
+          - "configuré et protégé un réseau privé."
+          - "configuré un serveur de téléphonie."
+          - "développé des sites web."
+          - "développé des programmes et application informatiques"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
