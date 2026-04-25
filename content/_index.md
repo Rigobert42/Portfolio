@@ -88,12 +88,12 @@ sections:
           items:
             - name: C
               icon: devicon/c
-            - name: C++
-              icon: devicon/c++
+            - name: C#
+              icon: devicon/c#
             - name: Python
               icon: devicon/python
             - name: HTML/CSS
-              icon: devicon/html-css
+              icon: devicon/htmlcss
         - name: Réseau
           items:
             - name: Switch
@@ -107,9 +107,9 @@ sections:
         - name: Système d'exploitation
           items:
             - name: Windows
-              icon: devicon/nodejs
+              icon: devicon/windows
             - name: Linux
-              icon: devicon/express
+              icon: devicon/linux
         - name: DevOps
           items:
             - name: Docker
