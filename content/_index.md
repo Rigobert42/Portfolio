@@ -88,12 +88,12 @@ sections:
           items:
             - name: C
               icon: devicon/c
-            - name: C#
-              icon: devicon/c#
+            - name: JavaScript
+              icon: devicon/javascript
             - name: Python
               icon: devicon/python
             - name: HTML/CSS
-              icon: devicon/htmlcss
+              icon: devicon/html
         - name: Réseau
           items:
             - name: Switch
