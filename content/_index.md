@@ -87,23 +87,23 @@ sections:
         - name: Languages de programmation
           items:
             - name: C
-              icon: devicon/typescript
+              icon: devicon/c
             - name: C++
-              icon: devicon/javascript
+              icon: devicon/c++
             - name: Python
               icon: devicon/python
             - name: HTML/CSS
-              icon: devicon/go
+              icon: devicon/html-css
         - name: Réseau
           items:
             - name: Switch
-              icon: devicon/react
+              icon: devicon/swtich
             - name: Routeur
-              icon: devicon/nextjs
+              icon: devicon/routeur
             - name: Pare-feu
-              icon: devicon/tailwindcss
+              icon: devicon/firewall
             - name: TCP/IP
-              icon: devicon/alpinejs
+              icon: devicon/tcp-ip
         - name: Système d'exploitation
           items:
             - name: Windows
@@ -115,11 +115,11 @@ sections:
             - name: Docker
               icon: devicon/docker
             - name: Ansible
-              icon: devicon/amazonwebservices
+              icon: devicon/ansible
             - name: VirtualBox
-              icon: brands/github
+              icon: brands/virtualbox
             - name: Vagrant
-              icon: devicon/vercel
+              icon: devicon/vagrant
     design:
       style: grid
       show_levels: false
