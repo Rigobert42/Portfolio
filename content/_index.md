@@ -11,25 +11,25 @@ sections:
     id: hero
     content:
       username: me
-      greeting: "Hi, I'm"
+      greeting: "Bonjour, je suis"
       show_status: true
       show_scroll_indicator: true
       typewriter:
         enable: true
-        prefix: "I build"
+        prefix: "Je peux"
         strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
+          - "configuré des équipements réseau"
+          - "configuré un serveur de téléphonie"
+          - "développé des sites web"
+          - "développé des programmes"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
       cta_buttons:
-        - text: View My Work
+        - text: Visualiser mes Projets
           url: "#projects"
           icon: arrow-down
-        - text: Get In Touch
+        - text: Contact
           url: "#contact"
           icon: envelope
     design:
@@ -47,20 +47,20 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: "Featured Projects"
-      subtitle: "A selection of my recent work"
+      title: "Mes Réalisations"
+      subtitle: "Connaissances et projet réalisé"
       count: 0
       filters:
         folders:
           - projects
       buttons:
-        - name: All
+        - name: Tout
           tag: '*'
-        - name: Full-Stack
+        - name: Apprenstissage Critique
           tag: Full-Stack
-        - name: Frontend
+        - name: Projets en cours
           tag: Frontend
-        - name: Backend
+        - name: Pojets en entreprise
           tag: Backend
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
@@ -81,10 +81,10 @@ sections:
   - block: tech-stack
     id: skills
     content:
-      title: "Tech Stack"
-      subtitle: "Technologies I use to build things"
+      title: "Compétences"
+      subtitle: "Mes compétences divisé en plusieurs catégories"
       categories:
-        - name: Languages
+        - name: Languages de programmation
           items:
             - name: TypeScript
               icon: devicon/typescript
@@ -94,17 +94,17 @@ sections:
               icon: devicon/python
             - name: Go
               icon: devicon/go
-        - name: Frontend
+        - name: Réseau
           items:
-            - name: React
+            - name: Switch
               icon: devicon/react
-            - name: Next.js
+            - name: Routeur
               icon: devicon/nextjs
-            - name: Tailwind CSS
+            - name: Pare-feu
               icon: devicon/tailwindcss
-            - name: Alpine.js
+            - name: TCP/IP
               icon: devicon/alpinejs
-        - name: Backend
+        - name: Machine virtuel
           items:
             - name: Node.js
               icon: devicon/nodejs
@@ -118,11 +118,11 @@ sections:
           items:
             - name: Docker
               icon: devicon/docker
-            - name: AWS
+            - name: Ansible
               icon: devicon/amazonwebservices
-            - name: GitHub Actions
+            - name: GitHub
               icon: brands/github
-            - name: Vercel
+            - name: Vagrant
               icon: devicon/vercel
     design:
       style: grid
@@ -213,12 +213,12 @@ sections:
   - block: contact-info
     id: contact
     content:
-      title: Get In Touch
+      title: Contact
       subtitle: "Let's build something amazing together"
       text: |-
         I'm always interested in hearing about new projects and opportunities.
         Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
-      email: alex@example.com
+      email: benoit4dulac@gmail.com
       autolink: true
     design:
       columns: '1'
@@ -232,13 +232,9 @@ sections:
   # CTA Card
   - block: cta-card
     content:
-      title: "Open to Opportunities"
-      text: |-
-        I'm currently looking for **senior engineering** or **tech lead** roles.
-        
-        Let's connect and discuss how I can help your team.
+      title: "Mon CV"
       button:
-        text: 'Download Resume'
+        text: 'Téléchargé'
         url: uploads/resume.pdf
         new_tab: true
     design:
