@@ -93,21 +93,21 @@ sections:
             - name: Python
               icon: devicon/python
             - name: HTML/CSS
-              icon: devicon/html
+              icon: assets/media/icons/custom/html-css.png
         - name: Réseau
           items:
             - name: Switch
-              icon: devicon/swtich
+              icon: assets/media/icons/custom/switch.png
             - name: Routeur
-              icon: devicon/routeur
+              icon: assets/media/icons/custom/routeur.png
             - name: Pare-feu
-              icon: devicon/firewall
+              icon: assets/media/icons/custom/firewall.png
             - name: TCP/IP
-              icon: devicon/tcp-ip
+              icon: assets/media/icons/custom/tcp-ip.png
         - name: Système d'exploitation
           items:
             - name: Windows
-              icon: devicon/windows
+              icon: assets/media/icons/custom/windows.png
             - name: Linux
               icon: devicon/linux
         - name: DevOps
