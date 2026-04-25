@@ -104,23 +104,19 @@ sections:
               icon: devicon/tailwindcss
             - name: TCP/IP
               icon: devicon/alpinejs
-        - name: Machine virtuel
+        - name: Système d'exploitation
           items:
-            - name: Node.js
+            - name: Windows
               icon: devicon/nodejs
-            - name: Express
+            - name: Linux
               icon: devicon/express
-            - name: PostgreSQL
-              icon: devicon/postgresql
-            - name: Redis
-              icon: devicon/redis
         - name: DevOps
           items:
             - name: Docker
               icon: devicon/docker
             - name: Ansible
               icon: devicon/amazonwebservices
-            - name: GitHub
+            - name: VirtualBox
               icon: brands/github
             - name: Vagrant
               icon: devicon/vercel
