@@ -7,12 +7,12 @@ name:
   family: Dulac
 postnominals: []
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
+  icon: "🌐"
 role: Technicien UC & Réseau
 email: benoit4dulac@gmail.com
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  Technicien spécialisé en UC et réseaux, avec une passion pour le réseau et la téléphonie.
+  J'aime découvrir de nouvelles technologies et partager mes connaissances.
 
 affiliations:
   - name: TIMS Systems
@@ -33,65 +33,58 @@ interests:
   - Developer Experience
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
+  - degree: BUT Réseaux et Télécommunications
+    institution: Université Jean Monnet
+    start: 01-09-2023
+    end: 04-09-2026
     summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
+      Actuellement en formation pour devenir technicien spécialisé en Réseaux et Télécommunications.
+      J'apprends les fondamentaux des réseaux, de la téléphonie, et des systèmes d'information.
     button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
+      text: Mes projets
+      url: https://github.com/rigobert42
       icon: brands/github
 
 experience:
-  - role: Senior Software Engineer
-    org: Tech Corp
-    start: 2023-01-01
+  - role: Technicien spécialisé en UC et réseaux
+    org: TIMS Systems
+    start: 10-02-2025
+    end: null
     summary: |
-      Lead development of microservices architecture serving 1M+ users.
-      Improved API response time by 40% through optimization.
-      Mentored team of 5 junior developers.
-  - role: Full-Stack Developer
-    org: Startup Inc
-    start: 2021-06-01
-    end: 2022-12-31
-    summary: |
-      Built and deployed 3 production applications from scratch.
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-      Led migration from monolith to microservices architecture.
-  - role: Junior Developer
-    org: Web Agency
-    start: 2020-01-01
-    end: 2021-05-31
-    summary: |
-      Developed client websites using React and modern web technologies.
-      Participated in code reviews and agile ceremonies.
+      Technicien support spécialisé en UC et réseaux, fournissant une assistance technique de haut niveau aux clients.
+      Résolution de problèmes complexes liés aux réseaux, à la téléphonie, et aux systèmes d'information.
+      Assistance à distance et sur site, avec une forte orientation client et une expertise technique approfondie.
+    button:
+      text: TIMS Systems
+      url: https://tims.fr
+      icon: globe
 
 skills:
   - name: Development
     items:
-      - label: TypeScript
-        level: 5
-      - label: React
-        level: 5
-      - label: Node.js
-        level: 5
+      - label: C
+        level: 3
+      - label: C++
+        level: 3
+      - label: html/css
+        level: 4
       - label: Python
         level: 4
   - name: DevOps
     items:
       - label: Docker
         level: 4
-      - label: AWS
+      - label: Ansible
         level: 4
       - label: CI/CD
-        level: 5
+        level: 4
 
 languages:
-  - name: English
+  - name: Français
     level: 5
-    label: Native
+    label: Natif
+  - name: Anglais
+    level: 4
+    label: B2
 
 awards: []
