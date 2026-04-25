@@ -86,13 +86,13 @@ sections:
       categories:
         - name: Languages de programmation
           items:
-            - name: TypeScript
+            - name: C
               icon: devicon/typescript
-            - name: JavaScript
+            - name: C++
               icon: devicon/javascript
             - name: Python
               icon: devicon/python
-            - name: Go
+            - name: HTML/CSS
               icon: devicon/go
         - name: Réseau
           items:
