@@ -31,7 +31,6 @@ Cette compétence porte sur les infrastructures de transmission et les solutions
 - Projet ToIP ou téléphonie.
 - Projet réseau d’accès ou Wi-Fi.
 - Projet de liaison multi-site.
-- Stage sur une solution de connexion.
 
 ## Analyse réflexive
 

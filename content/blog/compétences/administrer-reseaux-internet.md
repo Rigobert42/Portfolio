@@ -30,7 +30,6 @@ Cette compétence couvre la conception, la mise en œuvre, l’administration et
 
 - Projet de conception réseau.
 - SAE d’administration ou de supervision.
-- Stage lié à l’exploitation réseau.
 
 ## Analyse réflexive
 
