@@ -12,7 +12,7 @@ featured: true
 
 # Tableau de correspondance ROM
 
-Ce tableau relie mes projets, SAE et missions de stage aux compétences et apprentissages critiques du parcours ROM [file:1][file:3].
+Ce tableau relie mes projets, SAE et missions de stage aux compétences et apprentissages critiques du parcours ROM.
 
 | Projet / SAE / Stage | Compétence principale | Apprentissages critiques à mettre en avant |
 |---|---|---|---|---|

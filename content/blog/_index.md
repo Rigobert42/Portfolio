@@ -6,11 +6,11 @@ date: 2026-04-26
 
 # Portfolio de compétences
 
-Ce portfolio présente mes compétences acquises dans le parcours ROM du BUT Réseaux et Télécommunications. Il s’appuie sur mes SAE, mes projets et mon stage pour relier chaque réalisation aux apprentissages critiques du référentiel [file:1][file:3].
+Ce portfolio présente mes compétences acquises dans le parcours ROM du BUT Réseaux et Télécommunications. Il s’appuie sur mes SAE, mes projets et mon stage pour relier chaque réalisation aux apprentissages critiques du référentiel.
 
 ## Objectif
 
-L’objectif de ce portfolio est de montrer mes compétences techniques, ma capacité d’analyse, ma rigueur documentaire et ma progression professionnelle au fil du cursus [file:3].
+L’objectif de ce portfolio est de montrer mes compétences techniques, ma capacité d’analyse, ma rigueur documentaire et ma progression professionnelle au fil du cursus.
 
 ## Navigation
 
