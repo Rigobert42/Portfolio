@@ -47,8 +47,8 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: "Apprentissage critique"
-      subtitle: "Mes apprentissages critiques"
+      title: "Projets"
+      subtitle: "Mes projets réalisé"
       count: 0
       filters:
         folders:
@@ -153,8 +153,8 @@ sections:
   - block: collection
     id: blog
     content:
-      title: Projets
-      subtitle: 'Mes projets réalisé'
+      title: "Apprentissage critique"
+      subtitle: "Mes apprentissages critiques"
       text: ''
       filters:
         folders:
