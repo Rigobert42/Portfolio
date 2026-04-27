@@ -40,10 +40,6 @@ education:
     summary: |
       Actuellement en formation pour devenir technicien spécialisé en Réseaux et Télécommunications.
       J'apprends les fondamentaux des réseaux, de la téléphonie, et des systèmes d'information.
-    button:
-      text: Mes projets
-      url: https://github.com/rigobert42
-      icon: brands/github
   - degree: Baccalauréat STI2D spécialité Système d'Information et Numérique
     institution: Lycée Hipolyte Carnot
     start: 01-09-2022
