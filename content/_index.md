@@ -84,17 +84,17 @@ sections:
             - name: Python
               icon: devicon/python
             - name: HTML/CSS
-              icon: devicon/html
+              icon: devicon/html5
         - name: Réseau
           items:
             - name: Switch
-              icon: content/switch.png
+              icon: /content/switch.png
             - name: Routeur
-              icon: content/routeur.png
+              icon: /content/routeur.png
             - name: Pare-feu
-              icon: content/firewall.png
+              icon: /content/firewall.png
             - name: TCP/IP
-              icon: content/tcp-ip.png
+              icon: /content/tcp-ip.png
         - name: Système d'exploitation
           items:
             - name: Windows
