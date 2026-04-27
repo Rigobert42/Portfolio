@@ -26,19 +26,17 @@ Cette compétence couvre la conception, la mise en œuvre, l’administration et
 - AC31.05 Communiquer avec les acteurs du projet.
 - AC31.06 Gérer le projet et les différentes étapes de sa mise en œuvre en respectant les délais.
 
-## Projets liés
+## Ressources liés
 
-- Projet de conception réseau.
-- SAE d’administration ou de supervision.
+- R5.02
+- R5.ROM.10
+- R5.ROM.11
 
-## Analyse réflexive
-
-Cette compétence m’a appris à appliquer une démarche structurée pour identifier, configurer et valider une infrastructure réseau. J’ai progressé dans l’analyse des dysfonctionnements, la documentation technique et la justification de mes choix. J’ai aussi compris qu’une configuration réseau doit être pensée pour être maintenable, reproductible et compréhensible par d’autres [file:3].
-
-## Preuves à ajouter
-
-- Schéma d’architecture.
-- Captures de configuration.
-- Résultats de tests.
-- Procédure technique.
-- Compte rendu d’incident.
+R5.01 - Active Directory
+R5.02 - Supervision Réseau / SNMP
+R5.03 - Etude déploiement Fibre et QGIS
+R5.04 - API, GIT, DOCKER et GITLAB
+R5.ROM.10 - Stormshield et CSNA
+R5.ROM.11 - Mikrotik, NFV, SDN et SD-WAN
+SAE5.01 - CCNA et projet tutoré sur la migration de lien cuivre ADSL, SDSL vers une solution fibre
+SAE5.02 - DEVOPPS, automatisation et déploiement de service ( dans mon cas utilisation de vagrant et ansible pour configuration d'un routeur mikrotik, puis configuration de grafana et Zabbix pour supervision)
