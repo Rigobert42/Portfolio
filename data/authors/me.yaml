@@ -44,6 +44,13 @@ education:
       text: Mes projets
       url: https://github.com/rigobert42
       icon: brands/github
+  - degree: Baccalauréat STI2D spécialité Système d'Information et Numérique
+    institution: Lycée Hipolyte Carnot
+    start: 01-09-2022
+    end: 04-09-2023
+    summary: |
+      Formation axée sur les systèmes d'information et numériques, avec une forte orientation vers les technologies de l'information.
+      J'ai acquis des compétences en développement, en réseaux, et en gestion de projets informatiques.
 
 experience:
   - role: Technicien UC et réseaux

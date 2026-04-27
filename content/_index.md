@@ -26,7 +26,7 @@ sections:
         delete_speed: 40
         pause_time: 2500
       cta_buttons:
-        - text: Visualiser mes Projets
+        - text: Mes Projets
           url: "#projects"
           icon: arrow-down
         - text: Contact
