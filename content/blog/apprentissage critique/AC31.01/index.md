@@ -22,9 +22,14 @@ J’ai mobilisé cet apprentissage dans la SAE5.01, où j’ai travaillé sur un
 J’ai d’abord analysé le besoin et l’existant afin d’identifier les limites de la solution en place. Ensuite, j’ai comparé plusieurs options techniques en tenant compte de la disponibilité, de la sécurité et de la supervision. J’ai enfin structuré une proposition cohérente, avec un raisonnement sur les choix d’architecture, puis j’ai vérifié la faisabilité de la solution à travers les éléments de projet et de documentation associés.
 
 ## Preuves
-![preuve1](/static/image-1.png)
-![preuve2](/static/image-2.png)
-<img src="/static/image-1.png" alt="Capture de configuration" width="800">
+![alt text](../../../../static/image-1.webp)
+![alt text](static/image-1.webp)
+![alt text](../../../../static/image-2.webp)
+![alt text](static/image-2.webp)
+![alt text](/static/image-2.webp)
+<img src="../../../../static/image-2.webp" alt="Capture de configuration" width="800">
+<img src="static/image-2.webp" alt="Capture de configuration" width="800">
+<img src="/static/image-2.webp" alt="Capture de configuration" width="800">
 
 ## Analyse réflexive
 **Réussite :** j’ai réussi à relier les besoins métier aux contraintes techniques et à proposer une solution logique et réaliste.  
