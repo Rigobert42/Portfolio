@@ -12,8 +12,6 @@ authors:
 featured: true
 ---
 
-# Connecter les entreprises et les usagers
-
 ## Vue d’ensemble
 
 Cette compétence porte sur les infrastructures de transmission et les solutions de connexion des entreprises et des utilisateurs. Elle couvre les transmissions filaires, radio, la ToIP, les accès sans fil, les accès opérateurs et les déploiements de services de communication.

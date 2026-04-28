@@ -139,7 +139,7 @@ sections:
             * Technicien support spécialisé en UC et réseaux, fournissant une assistance technique de haut niveau aux clients.
             * Résolution de problèmes complexes liés aux réseaux, à la téléphonie, et aux systèmes d'information.
             * Assistance à distance et sur site, avec une forte orientation client et une expertise technique approfondie.
-
+            
     design:
       columns: '1'
       background:
@@ -179,8 +179,7 @@ sections:
       title: Contact
       subtitle: "Vous pouvez me contacter ici."
       text: |-
-        Je suis toujours intéressé de nouveaux projets et opportunités.
-        Que vous cherchiez à recruter, à collaborer ou simplement à me saluer, n'hésitez pas à me contacter !
+        Je suis toujours intéressé par la réalisation de nouveaux projets alors si vous cherchez à collaborer ou simplement à me saluer, n'hésitez pas à me contacter !
       email: benoit4dulac@gmail.com
       autolink: true
     design:

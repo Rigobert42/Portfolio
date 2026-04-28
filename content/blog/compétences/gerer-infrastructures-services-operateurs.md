@@ -11,8 +11,6 @@ authors:
 featured: false
 ---
 
-# Gérer les infrastructures et les services des réseaux opérateurs
-
 ## Vue d’ensemble
 
 Cette compétence concerne les environnements opérateurs : infrastructures d’accès, services télécoms, interconnexions, routage opérateur et virtualisation de fonctions réseau. Elle correspond à des contextes plus proches des réseaux de production et des services fournis à des clients ou à des entreprises.

@@ -11,8 +11,6 @@ authors:
 featured: true
 ---
 
-# Administrer les réseaux et l’Internet
-
 ## Vue d’ensemble
 
 Cette compétence couvre la conception, la mise en œuvre, l’administration et la supervision d’un réseau d’entreprise. Elle mobilise des savoirs en adressage, commutation, routage, systèmes d’exploitation, dépannage et sécurité de base.

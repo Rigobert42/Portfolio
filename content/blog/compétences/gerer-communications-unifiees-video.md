@@ -12,8 +12,6 @@ authors:
 featured: false
 ---
 
-# Gérer les communications unifiées et la vidéo sur Internet
-
 ## Vue d’ensemble
 
 Cette compétence regroupe les services de téléphonie, de visioconférence et de vidéo pour l’entreprise. Elle met l’accent sur le déploiement, l’administration, la qualité de service et la supervision des flux de communication.

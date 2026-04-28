@@ -12,8 +12,6 @@ authors:
 featured: true
 ---
 
-# Créer des outils et applications informatiques pour les R&T
-
 ## Vue d’ensemble
 
 Cette compétence vise le développement d’outils utiles aux réseaux et télécommunications : scripts, applications web, interfaces d’administration, automatisation ou exploitation de données. Elle relie les besoins réseau à la programmation, à la gestion de données et à la maintenance logicielle.
