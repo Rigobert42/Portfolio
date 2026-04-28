@@ -60,7 +60,6 @@ experience:
     button:
       text: TIMS Systems
       url: https://tims.fr
-      icon: brands/tims
 
 skills:
   - name: Development

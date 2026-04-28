@@ -4,7 +4,7 @@ summary: "E-portfolio du parcours ROM du BUT Réseaux et Télécommunications."
 date: 2026-04-26
 ---
 
-# Portfolio de compétences
+# Description
 
 Ce portfolio présente mes compétences acquises dans le parcours ROM du BUT Réseaux et Télécommunications. Il s’appuie sur mes SAE, mes projets et mon stage pour relier chaque réalisation aux apprentissages critiques du référentiel.
 

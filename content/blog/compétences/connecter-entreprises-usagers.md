@@ -16,7 +16,7 @@ featured: true
 
 ## Vue d’ensemble
 
-Cette compétence porte sur les infrastructures de transmission et les solutions de connexion des entreprises et des utilisateurs. Elle couvre les transmissions filaires, radio, la ToIP, les accès sans fil, les accès opérateurs et les déploiements de services de communication [file:1].
+Cette compétence porte sur les infrastructures de transmission et les solutions de connexion des entreprises et des utilisateurs. Elle couvre les transmissions filaires, radio, la ToIP, les accès sans fil, les accès opérateurs et les déploiements de services de communication.
 
 ## Apprentissages critiques associés
 
@@ -26,8 +26,10 @@ Cette compétence porte sur les infrastructures de transmission et les solutions
 - AC32.04 Permettre aux collaborateurs de se connecter de manière sécurisée au système d’information de l’entreprise.
 - AC32.05 Collaborer en mode projet en français et en anglais.
 
-## Projets liés
+## Ressources liés
 
-- Projet ToIP ou téléphonie.
-- Projet réseau d’accès ou Wi-Fi.
-- Projet de liaison multi-site.
+- R5.01 - Active Directory
+- R5.03 - Etude déploiement Fibre avec QGIS
+- SAE5.01 - CCNA et projet tutoré sur la migration de lien cuivre ADSL, SDSL vers une solution fibre
+- SAE5.02 - DEVOPPS, automatisation et déploiement de service
+- R6.ROM.04 - Mise en place Controller et sécurité pour réseau sans-fil

@@ -41,7 +41,7 @@ sections:
           light: "#fafafa"
           dark: "#0a0a0f"
       spacing:
-        padding: ["4rem", "0", "6rem", "0"]
+        padding: ["10rem", "0", "10rem", "0"]
   
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
@@ -177,10 +177,10 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle: "Let's build something amazing together"
+      subtitle: "Vous pouvez me contacter ici."
       text: |-
-        I'm always interested in hearing about new projects and opportunities.
-        Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
+        Je suis toujours intéressé de nouveaux projets et opportunités.
+        Que vous cherchiez à recruter, à collaborer ou simplement à me saluer, n'hésitez pas à me contacter !
       email: benoit4dulac@gmail.com
       autolink: true
     design:
@@ -197,7 +197,7 @@ sections:
     content:
       title: "Mon CV"
       button:
-        text: 'Téléchargé'
+        text: 'Télécharger'
         url: uploads/resume.pdf
         new_tab: true
     design:

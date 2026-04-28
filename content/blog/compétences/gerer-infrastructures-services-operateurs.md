@@ -15,15 +15,14 @@ featured: false
 
 ## Vue d’ensemble
 
-Cette compétence concerne les environnements opérateurs : infrastructures d’accès, services télécoms, interconnexions, routage opérateur et virtualisation de fonctions réseau. Elle correspond à des contextes plus proches des réseaux de production et des services fournis à des clients ou à des entreprises [file:1].
+Cette compétence concerne les environnements opérateurs : infrastructures d’accès, services télécoms, interconnexions, routage opérateur et virtualisation de fonctions réseau. Elle correspond à des contextes plus proches des réseaux de production et des services fournis à des clients ou à des entreprises.
 
 ## Apprentissages critiques associés
 
 - AC34.01ROM Administrer/superviser les infrastructures et les services télécom.
 - AC34.02ROM Administrer et déployer des fonctions réseaux virtualisées et programmer le réseau.
 
-## Projets liés
+## Ressources liés
 
-- Projet opérateur.
-- Stage en environnement de production.
-- Activité d’administration ou de supervision réseau.
+- R5.ROM.9 - Services Multimédia
+- R5.ROM.10 - Stormshield et CSNA

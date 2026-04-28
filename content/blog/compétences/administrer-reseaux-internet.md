@@ -15,7 +15,7 @@ featured: true
 
 ## Vue d’ensemble
 
-Cette compétence couvre la conception, la mise en œuvre, l’administration et la supervision d’un réseau d’entreprise. Elle mobilise des savoirs en adressage, commutation, routage, systèmes d’exploitation, dépannage et sécurité de base [file:1].
+Cette compétence couvre la conception, la mise en œuvre, l’administration et la supervision d’un réseau d’entreprise. Elle mobilise des savoirs en adressage, commutation, routage, systèmes d’exploitation, dépannage et sécurité de base.
 
 ## Apprentissages critiques associés
 
@@ -28,15 +28,10 @@ Cette compétence couvre la conception, la mise en œuvre, l’administration et
 
 ## Ressources liés
 
-- R5.02
-- R5.ROM.10
-- R5.ROM.11
-
-R5.01 - Active Directory
-R5.02 - Supervision Réseau / SNMP
-R5.03 - Etude déploiement Fibre et QGIS
-R5.04 - API, GIT, DOCKER et GITLAB
-R5.ROM.10 - Stormshield et CSNA
-R5.ROM.11 - Mikrotik, NFV, SDN et SD-WAN
-SAE5.01 - CCNA et projet tutoré sur la migration de lien cuivre ADSL, SDSL vers une solution fibre
-SAE5.02 - DEVOPPS, automatisation et déploiement de service ( dans mon cas utilisation de vagrant et ansible pour configuration d'un routeur mikrotik, puis configuration de grafana et Zabbix pour supervision)
+- R5.01 - Active Directory
+- R5.02 - Supervision Réseau / SNMP
+- R5.03 - Etude déploiement Fibre et QGIS
+- R5.04 - API, GIT, DOCKER et GITLAB
+- SAé5.01 - CCNA et projet tutoré sur la migration de lien cuivre ADSL, SDSL vers une solution fibre
+- SAé5.02 - DEVOPPS, automatisation et déploiement de service
+- R6.ROM.04 - Mise en place Controller et sécurité pour réseau sans-fil
