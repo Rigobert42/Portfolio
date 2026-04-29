@@ -26,8 +26,8 @@ sections:
         delete_speed: 40
         pause_time: 2500
       cta_buttons:
-        - text: Mes Projets
-          url: "#projects"
+        - text: Apprentissage Critique
+          url: "#blog"
           icon: arrow-down
         - text: Contact
           url: "#contact"
