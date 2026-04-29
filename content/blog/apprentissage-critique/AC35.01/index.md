@@ -46,4 +46,4 @@ Je retiens qu’un service multimédia réussi dépend autant de l’architectur
 Pour avancer, je veux continuer à relier les services multimédias à la QoS, aux outils de supervision et aux pratiques d’exploitation, pour avoir une vision plus complète du sujet.
 
 ## Bilan : 
-5/5 - J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris les besoins des services multimédias pour une entreprise, notamment en termes de QoS, de supervision et de stabilité. Je considère donc cet apprentissage comme acquis.
+4/5 - J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris les besoins des services multimédias pour une entreprise, notamment en termes de QoS, de supervision et de stabilité. Je considère donc cet apprentissage comme acquis.
